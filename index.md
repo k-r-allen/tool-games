@@ -14,11 +14,11 @@ Many animals, and an increasing number of artificial agents, display sophisticat
 
 ## Human and Model Data
 
-[https://github.com/k-r-allen/tool-games/data](https://github.com/k-r-allen/tool-games/data)
+[https://github.com/k-r-allen/tool-games/tree/master/data](https://github.com/k-r-allen/tool-games/tree/master/data)
 
 ## Environment Code
 
-[https://github.com/k-r-allen/tool-games/environment](https://github.com/k-r-allen/tool-games/environment)
+[https://github.com/k-r-allen/tool-games/tree/master/environment](https://github.com/k-r-allen/tool-games/tree/master/environment)
 
 ## Link to the arXiv
 
